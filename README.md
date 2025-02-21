@@ -1,56 +1,230 @@
-# 웹/모바일(웹 기술) 스켈레톤 프로젝트
+# README
 
-<!-- 필수 항목 -->
+# 목차
 
-## 카테고리
+---
 
-| Application | Domain | Language | Framework |
-| ---- | ---- | ---- | ---- |
-| :white_check_mark: Desktop Web | :black_square_button: AI | :white_check_mark: JavaScript | :white_check_mark: Vue.js |
-| :white_check_mark: Mobile Web | :black_square_button: Big Data | :black_square_button: TypeScript | :black_square_button: React |
-| :white_check_mark: Responsive Web | :black_square_button: Blockchain | :black_square_button: C/C++ | :black_square_button: Angular |
-| :black_square_button: Android App | :black_square_button: IoT | :black_square_button: C# | :black_square_button: Node.js |
-| :black_square_button: iOS App | :black_square_button: AR/VR/Metaverse | :white_check_mark: Python | :white_check_mark: Flask/Django |
-| :black_square_button: Desktop App | :black_square_button: Game | :white_check_mark: Java | :white_check_mark: Spring/Springboot |
-| | | :black_square_button: Kotlin | |
+1. [소개영상(UCC)](README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+2. [프로젝트 일정](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+3. [기획 배경](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+4. [타겟층 및 목표](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+5. [서비스 개요](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+6. [서비스 화면 및 기능 소개](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+7. [프로젝트 산출물](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+8. [기술스택](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+9. [프로젝트 구조](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+10. [팀원 역할 및 분배](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
 
-<!-- 필수 항목 -->
+---
 
-## 프로젝트 소개
+# **🎞️**소개영상(UCC)
 
-* 프로젝트명: 그룹 비디오 컨퍼런스 서비스
-* 서비스 특징: 웹/모바일(웹 기술) 프로젝트를 위한 스켈레톤 프로젝트
-* 주요 기능
-  - 회원 관리
-  - 화상 미팅룸
-  - 그룹 채팅
-* 주요 기술
-  - WebRTC
-  - WebSocket
-  - JWT Authentication
-  - REST API
-* 참조 리소스
-  * Vuetify: 디자인 전반 적용
-  * Vue Argon Design System: 디자인 전반 적용
-  * Vue Black Dashboard Pro(유료): 캘린더 컴포넌트 사용
-  * AR Core: 구글에서 제공하는 AR 지원 라이브러리. 이미지 인식 및 오버레이 영상에 활용
-  * Color Thief: 이미지 색상 추출 라이브러리. 커버 사진 색상 추출 및 배경 변경에 활용
-  * Animation.css: CSS 애니메이션 지원 라이브러리. 메인 페이지 진입 애니메이션에 활용
-* 배포 환경
-  - URL: // 웹 서비스, 랜딩 페이지, 프로젝트 소개 등의 배포 URL 기입
-  - 테스트 계정: // 로그인이 필요한 경우, 사용 가능한 테스트 계정(ID/PW) 기입
+---
 
-<!-- 자유 양식 -->
+[FERO소개영상.mp4](./README_content/FERO소개영상.mp4)
 
-## 팀 소개
-* 김ㅇㅇ: 팀장, 프론트엔드 개발
-* 이ㅇㅇ: 부팀장, 기획 및 와이어프레임 작성, 프론트엔드 개발
-* 박ㅇㅇ: 백엔드 개발 및 QA 담당
-* 홍ㅇㅇ: 백엔드 개발, Swagger API 문서 관리
-* 전ㅇㅇ: 코드 리뷰 및 인프라 담당, CI/CD, HTTPS, Docker 구성
+![FERO소개영상.gif](./README_content/FERO소개영상상.gif)
 
-<!-- 자유 양식 -->
+# **🗓️**프로젝트 일정
 
-## 프로젝트 상세 설명
+---
 
-// 개발 환경, 기술 스택, 시스템 구성도, ERD, 기능 상세 설명 등
+![image.png](./README_content/image.png)
+
+# **🗺️**기획 배경
+
+---
+
+### **홈 트레이닝의 문제점과 해결방안**
+
+💡 코로나 이후 홈 트레이닝(홈트)의 수요는 급증했지만, **지속적인 동기부여 부족, 운동 자세 교정의 어려움, 혼자 하는 운동의 단조로움** 등의 문제로 인해 꾸준히 운동을 지속하는 사용자는 많지 않음.
+
+💡 기존 피트니스 서비스는 운동 루틴 제공에 집중되어 있어 **게임 요소가 부족하고, 운동을 함께할 수 있는 소셜 기능이 미흡함**.
+
+🔍 **FERO는 운동을 재미있게 지속할 수 있도록 '게임화(Gamification)'된 피트니스 환경을 제공하는 웹 앱!**
+
+- **운동을 게임**처럼 즐길 수 있도록 **스토리, 레벨업, 랭크 시스템을 도입**
+- **실시간**으로 친구와 운동하며 **경쟁**하고 **소통**할 수 있는 기능 제공
+- **자세 인식**을 통해 운동 수행을 정량적으로 **측정**, **피드백** 제공
+
+# **🎯**타겟층 및 목표
+
+---
+
+### 타겟층
+
+- 🏋️‍♂️ **홈트족**: 혼자 운동할 때 동기부여가 부족한 사람
+- 🎮 **게임을 좋아하는 운동 초보자**: 재미 요소가 가미된 운동을 원하는 사람
+- 💪 **피트니스 매니아**: 자신의 운동 데이터를 기록하고 경쟁을 즐기는 사람
+- 🏠 **공간 제약 없이 운동하고 싶은 사람**: 헬스장 없이도 운동을 꾸준히 하고 싶은 사람
+
+### 목표
+
+1. **즉각적인 보상**을 통한 **지속적인 동기부여** 제공
+2. 운동 커뮤니티 형성
+3. 공간의 제약 없이 **함께 운동할 수 있는 환경** 제공
+4. **운동 데이터 기록** 가능
+5. 개인화된 매칭 서비스 제공
+
+# **📰**서비스 개요
+
+---
+
+### **FERO**는 **운동과 게임을 결합한 웹 기반 피트니스 플랫폼**입니다.
+
+- **실시간 운동 대결**, **운동 자세 분석**, **캐릭터 육성**, **커뮤니티 기능**을 통해 운동을 보다 재미있게 지속할 수 있도록 합니다.
+- 사용자는 **WebRTC를 활용한 실시간 운동 대결**을 통해 친구 또는 다른 사용자와 함께 운동할 수 있으며, Mediapipe 기술을 통해 **운동 자세를 인식하고 분석**할 수 있습니다.
+- 또한 **퀘스트 시스템, 랭크 시스템, 경험치 기반 캐릭터 성장 시스템**을 통해 운동을 **게임처럼 재미있게 즐길 수 있도록 설계**되었습니다.
+
+# **⚙️**서비스 화면 및 기능 소개
+
+---
+
+### 1. 회원가입 / 로그인
+
+- **회원가입 및 캐릭터 생성**
+    
+    ![회원가입 및 캐릭터생성 - Clipchamp로 제작 (1).gif](./README_content/회원가입_및_캐릭터생성_-_Clipchamp로_제작_(1).gif)
+    
+
+- **로그인**
+    
+    ![로그인.gif](README_content/로그인.gif)
+    
+
+### 3. 스토리 소개
+
+- **스토리 소개 영상**
+    
+    ![FERO스토리.gif](README_content/FERO스토리.gif)
+    
+
+### 4. 캐릭터 정보 조회
+
+- **캐릭터의 스탯, 레벨, 경험치 등의 정보를 조회.**
+    
+    ![내 정보 보기 (1).gif](README_content/내_정보_보기_(1).gif)
+    
+
+### 5. 캐릭터 꾸미기
+
+**1) 메인 화면에서 확인 가능한 내 캐릭터**
+
+![image.png](image%201.png)
+
+**2) 캐릭터를 클릭하면 캐릭터의 외형을 꾸밀 수 있음.**
+
+![캐릭터_꾸미기.gif](%EC%BA%90%EB%A6%AD%ED%84%B0_%EA%BE%B8%EB%AF%B8%EA%B8%B0.gif)
+
+### 6. 캘린더
+
+- **캘린더에서 날짜별 스탯의 변화량을 확인 가능**
+    
+    ![캘린더 - Clipchamp로 제작.gif](%EC%BA%98%EB%A6%B0%EB%8D%94_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    
+
+### 7. 튜토리얼
+
+- **어떤 식으로 게임을 진행해야 하는지에 대한 설명**
+    
+    ![운동튜토리얼 - Clipchamp로 제작 (1) (1).gif](%EC%9A%B4%EB%8F%99%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91_(1)_(1).gif)
+    
+- **운동 자세 직접 해보기!**
+    
+    ![운동튜토리얼(스쿼트) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC(%EC%8A%A4%EC%BF%BC%ED%8A%B8)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    
+
+### 8. 운동하기
+
+- **운동 카운팅**
+    
+    ![운동하기(카운팅) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EC%B9%B4%EC%9A%B4%ED%8C%85)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    
+
+- **잘못된 자세는 카운팅 하지 않음**
+    
+    ![운동하기(잘못된자세) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EC%9E%98%EB%AA%BB%EB%90%9C%EC%9E%90%EC%84%B8)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    
+
+- **캐릭터 능력치 및 경험치, 랭크점수 변동 확인**
+    
+    ![운동하기(결과) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EA%B2%B0%EA%B3%BC)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    
+    ![image.png](image%202.png)
+    
+
+### 10. 랭크모드
+
+- **상대방과 함께하는 운동 화면**
+    
+    ![제목을-입력해주세요_.gif](%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_.gif)
+    
+
+# **📜**프로젝트 산출물
+
+---
+
+### 1. 디자인 피그마
+
+- [**와이어 프레임**](https://www.figma.com/design/SWFlgBZyq4h7C95UEJk4Oq/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0-1&p=f&t=eY5nGe4ngWDHpxem-0)
+    
+    ![image.png](image%203.png)
+    
+- [**초기 디자인**](https://www.figma.com/design/QJHGNPu2BgZkt6gkX4TAKP/%EA%B3%B5%ED%86%B5PJT-E103?node-id=0-1&p=f&m=dev)
+    
+    ![image.png](image%204.png)
+    
+
+### 2. ERD
+
+![erd.png](erd.png)
+
+### 3. API 명세서
+
+![image.png](image%205.png)
+
+![image.png](image%206.png)
+
+![image.png](image%207.png)
+
+![image.png](image%208.png)
+
+### 4. 아키텍쳐
+
+- **시스템 아키텍쳐**
+
+![image.png](image%209.png)
+
+# **⚒️**기술스택
+
+---
+
+### 1. **Backend**
+
+- **Spring Boot 2.5.5** (Java 15)
+- **WebSocket & WebRTC** (P2P 연결을 통해 서버 비용 절감 및 실시간 스트리밍 최적화)
+- **Redis** (인메모리 데이터 구조 활용하여 실시간 매칭 속도 향상)
+- **MySQL 8.0.23** (데이터 관리)
+
+### 2. **Frontend**
+
+- **Vue.js 3.0.0** (SPA 구현)
+- **CSS(Tailwind 3.0)** (UI 스타일링)
+- **Node.js 18** (서버 연동 및 WebRTC 구현)
+- **PWA & TWA** (모바일 환경 최적화 및 푸시 알림 지원)
+
+### 3. **Infra & DevOps**
+
+- **AWS EC2 (Ubuntu 20.04)**
+- **Docker & Jenkins** (CI/CD 자동화)
+- **Nginx** (Reverse Proxy 설정)
+- **GitLab** (형상 관리)
+
+### 4. 협업 관리
+
+- **GitLab**
+- **JIRA**
+- **Notion**
+- **Mattermost**
+- **Webex**
+- **ZEP**
