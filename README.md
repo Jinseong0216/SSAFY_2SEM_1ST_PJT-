@@ -5,25 +5,21 @@
 ---
 
 1. [소개영상(UCC)]
-2. [프로젝트 일정](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-3. [기획 배경](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-4. [타겟층 및 목표](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-5. [서비스 개요](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-6. [서비스 화면 및 기능 소개](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-7. [프로젝트 산출물](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-8. [기술스택](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-9. [프로젝트 구조](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
-10. [팀원 역할 및 분배](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+2. [프로젝트 일정]
+3. [기획 배경]
+4. [타겟층 및 목표]
+5. [서비스 개요]
+6. [서비스 화면 및 기능 소개]
+8. [기술스택]
+9. [프로젝트 구조]
+10. [팀원 역할 및 분배]
 
 ---
 
 # **🎞️**소개영상(UCC)
 
 ---
-
-[FERO소개영상.mp4](README_content/FERO소개영상.mp4)
-
-![FERO소개영상.gif](README_content/FERO소개영상상.gif)
+![FERO소개영상.mp4](README_content/FERO소개영상.mp4)
 
 # **🗓️**프로젝트 일정
 
@@ -108,13 +104,13 @@
 
 ### 5. 캐릭터 꾸미기
 
-**1) 메인 화면에서 확인 가능한 내 캐릭터**
+- **메인 화면에서 확인 가능한 내 캐릭터**
 
-![image.png](README_content/image 1.png)
+    ![image.png](README_content/image 1.png)
 
-**2) 캐릭터를 클릭하면 캐릭터의 외형을 꾸밀 수 있음.**
+- **캐릭터를 클릭하면 캐릭터의 외형을 꾸밀 수 있음.**
 
-![캐릭터_꾸미기.gif](README_content/캐릭터_꾸미기.gif)
+    ![캐릭터_꾸미기.gif](README_content/캐릭터_꾸미기.gif)
 
 ### 6. 캘린더
 
@@ -150,10 +146,10 @@
     
     ![운동하기(결과) - Clipchamp로 제작.gif](README_content/운동하기(결과)_-_Clipchamp로_제작.gif)
     
-    ![image.png](README_content/image2.png)
+    ![image 2.png](README_content/image 2.png)
     
 
-### 10. 랭크모드
+### 9. 랭크모드
 
 - **상대방과 함께하는 운동 화면**
     
