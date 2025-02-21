@@ -4,7 +4,7 @@
 
 ---
 
-1. [소개영상(UCC)](README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
+1. [소개영상(UCC)](README/# **🎞️**소개영상(UCC))
 2. [프로젝트 일정](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
 3. [기획 배경](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
 4. [타겟층 및 목표](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
@@ -21,15 +21,15 @@
 
 ---
 
-[FERO소개영상.mp4](./README_content/FERO소개영상.mp4)
+[FERO소개영상.mp4](README_content/FERO소개영상.mp4)
 
-![FERO소개영상.gif](./README_content/FERO소개영상상.gif)
+![FERO소개영상.gif](README_content/FERO소개영상상.gif)
 
 # **🗓️**프로젝트 일정
 
 ---
 
-![image.png](./README_content/image.png)
+![image.png](README_content/image.png)
 
 # **🗺️**기획 배경
 
@@ -110,11 +110,11 @@
 
 **1) 메인 화면에서 확인 가능한 내 캐릭터**
 
-![image.png](image%201.png)
+![image.png]()
 
 **2) 캐릭터를 클릭하면 캐릭터의 외형을 꾸밀 수 있음.**
 
-![캐릭터_꾸미기.gif](%EC%BA%90%EB%A6%AD%ED%84%B0_%EA%BE%B8%EB%AF%B8%EA%B8%B0.gif)
+![캐릭터_꾸미기.gif](README_content/캐릭터_꾸미기.gif)
 
 ### 6. 캘린더
 
@@ -127,37 +127,37 @@
 
 - **어떤 식으로 게임을 진행해야 하는지에 대한 설명**
     
-    ![운동튜토리얼 - Clipchamp로 제작 (1) (1).gif](%EC%9A%B4%EB%8F%99%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91_(1)_(1).gif)
+    ![운동튜토리얼 - Clipchamp로 제작 (1) (1).gif](README_content/운동튜토리얼_-_Clipchamp로_제작_(1)_(1).gif)
     
 - **운동 자세 직접 해보기!**
     
-    ![운동튜토리얼(스쿼트) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC(%EC%8A%A4%EC%BF%BC%ED%8A%B8)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    ![운동튜토리얼(스쿼트) - Clipchamp로 제작.gif](README_content/운동튜토리얼(스쿼트)_-_Clipchamp로_제작.gif)
     
 
 ### 8. 운동하기
 
 - **운동 카운팅**
     
-    ![운동하기(카운팅) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EC%B9%B4%EC%9A%B4%ED%8C%85)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    ![운동하기(카운팅) - Clipchamp로 제작.gif](README_content/운동하기(카운팅)_-_Clipchamp로_제작.gif)
     
 
 - **잘못된 자세는 카운팅 하지 않음**
     
-    ![운동하기(잘못된자세) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EC%9E%98%EB%AA%BB%EB%90%9C%EC%9E%90%EC%84%B8)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    ![운동하기(잘못된자세) - Clipchamp로 제작.gif](README_content/운동하기(잘못된자세)_-_Clipchamp로_제작.gif)
     
 
 - **캐릭터 능력치 및 경험치, 랭크점수 변동 확인**
     
-    ![운동하기(결과) - Clipchamp로 제작.gif](%EC%9A%B4%EB%8F%99%ED%95%98%EA%B8%B0(%EA%B2%B0%EA%B3%BC)_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    ![운동하기(결과) - Clipchamp로 제작.gif](README_content/운동하기(결과)_-_Clipchamp로_제작.gif)
     
-    ![image.png](image%202.png)
+    ![image.png](README_content/image.png)
     
 
 ### 10. 랭크모드
 
 - **상대방과 함께하는 운동 화면**
     
-    ![제목을-입력해주세요_.gif](%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_.gif)
+    ![제목을-입력해주세요_.gif](README_content/제목을-입력해주세요_.gif)
     
 
 # **📜**프로젝트 산출물
@@ -168,32 +168,32 @@
 
 - [**와이어 프레임**](https://www.figma.com/design/SWFlgBZyq4h7C95UEJk4Oq/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0-1&p=f&t=eY5nGe4ngWDHpxem-0)
     
-    ![image.png](image%203.png)
+    ![image.png](README_content/image%203.png)
     
 - [**초기 디자인**](https://www.figma.com/design/QJHGNPu2BgZkt6gkX4TAKP/%EA%B3%B5%ED%86%B5PJT-E103?node-id=0-1&p=f&m=dev)
     
-    ![image.png](image%204.png)
+    ![image.png](README_content/image%204.png)
     
 
 ### 2. ERD
 
-![erd.png](erd.png)
+![erd.png](README_content/erd.png)
 
 ### 3. API 명세서
 
-![image.png](image%205.png)
+![image.png](README_content/image%205.png)
 
-![image.png](image%206.png)
+![image.png](README_content/image%206.png)
 
-![image.png](image%207.png)
+![image.png](README_content/image%207.png)
 
-![image.png](image%208.png)
+![image.png](README_content/image%208.png)
 
 ### 4. 아키텍쳐
 
 - **시스템 아키텍쳐**
 
-![image.png](image%209.png)
+![image.png](README_content/image%209.png)
 
 # **⚒️**기술스택
 
