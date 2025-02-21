@@ -4,7 +4,7 @@
 
 ---
 
-1. [소개영상(UCC)](README/# **🎞️**소개영상(UCC))
+1. [소개영상(UCC)]
 2. [프로젝트 일정](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
 3. [기획 배경](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
 4. [타겟층 및 목표](https://www.notion.so/README-19dfd6e463d68073b967c5b9d3b5ad23?pvs=21)
@@ -110,7 +110,7 @@
 
 **1) 메인 화면에서 확인 가능한 내 캐릭터**
 
-![image.png]()
+![image.png](README_content/image 1.png)
 
 **2) 캐릭터를 클릭하면 캐릭터의 외형을 꾸밀 수 있음.**
 
@@ -120,7 +120,7 @@
 
 - **캘린더에서 날짜별 스탯의 변화량을 확인 가능**
     
-    ![캘린더 - Clipchamp로 제작.gif](%EC%BA%98%EB%A6%B0%EB%8D%94_-_Clipchamp%EB%A1%9C_%EC%A0%9C%EC%9E%91.gif)
+    ![캘린더 - Clipchamp로 제작.gif](README_content/캘린더_-_Clipchamp로_제작.gif)
     
 
 ### 7. 튜토리얼
@@ -150,7 +150,7 @@
     
     ![운동하기(결과) - Clipchamp로 제작.gif](README_content/운동하기(결과)_-_Clipchamp로_제작.gif)
     
-    ![image.png](README_content/image.png)
+    ![image.png](README_content/image2.png)
     
 
 ### 10. 랭크모드
